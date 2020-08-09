@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Factory">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiProperties">
+    <Position X="12" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAYQAAAAAAAAAAIAAAAAAAgABAAAAAAAAAAA=</HashCode>
+      <FileName>MultiProperties.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MultiPropertiesFactory">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAEAIAAAAAAABAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>MultiPropertiesFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Properties">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAACICIAAgAAIAIAAAABBCAAAABgAAAAAACAEA=</HashCode>
+      <FileName>Properties.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleProperties">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAIAAAAAAAAAAAAAAAAAAAgABAAAAAAAAAAA=</HashCode>
+      <FileName>SimpleProperties.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimplePropertiesFactory">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAgACAAAAAAAAAAA=</HashCode>
+      <FileName>SimplePropertiesFactory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
